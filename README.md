@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/blog-preview-card-TiemiAiPFb]
-- Live Site URL: [https://benhuynh003.github.io/Blog-Preview-Card/]
+- Live Site URL: [https://benhyh.github.io/Blog-Preview-Card/]
 
 ## My process
 
